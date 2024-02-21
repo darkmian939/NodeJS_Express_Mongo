@@ -19,5 +19,8 @@
     "Backend"
   ],
   "author": "Erik Chaves, Miguel Bejarano",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
